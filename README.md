@@ -1,2 +1,7 @@
-# u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf-entry
-Entry for the make.fun bounty Funniest Forecast for a City That Isn't
+# Funniest Forecast for a City That Isn't — make.fun entry
+
+[![make.fun · u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf](https://make.fun/badge/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf/rezimtirani/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf-entry/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf/rezimtirani/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf-entry/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf?utm_source=github&utm_medium=readme&utm_campaign=u-eager-stork-81-9647-funniest-forecast-for-a-city-2a8769cf)
+
+Tonight's forecast for Nowhereville, a city that doesn't exist: the rain falls sideways, the high is Tuesday, and the low is pure confusion. `main.py` writes that single line to `$MAKEFUN_OUTPUT_DIR/entry.txt` using only the Python standard library, enforcing the sealed 120-character gate from the kit's `RULES.txt`.
